@@ -9,32 +9,8 @@
    "updatedOn": null
   },
   "parameters": {},
-  "policyDefinitions": [
+   "policyDefinitions": [
    {
-    "policyDefinitionReferenceId": "[PTM] Etiqueta Entorno_1",
-    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/91595137-642a-484d-8442-bbe5835117bb/providers/Microsoft.Authorization/policyDefinitions/6a889340-2997-4557-a0b2-f22ba543296f",
-    "parameters": {
-     "tagNameEntorno": {
-      "value": "Entorno"
-     },
-     "tagValueEntorno": {
-      "value": [
-       "PROD",
-       "PRE",
-       "DES"
-      ]
-     }
-    },
-    "groupNames": []
-   }
-  ],
-  "policyDefinitionGroups": []
- },
- "id": "/providers/Microsoft.Management/managementGroups/MANAGED/providers/Microsoft.Authorization/policySetDefinitions/85d1f94dbc2b4b1cba213047",
- "type": "Microsoft.Authorization/policySetDefinitions",
- "name": "85d1f94dbc2b4b1cba213047"
- },
-{
     "policyDefinitionReferenceId": "Container registries should be encrypted with a customer-managed key (CMK) NOPRO_1",
     "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/0e6786d9-46d7-4dd4-96a1-49d069a34299",
     "parameters": {},
