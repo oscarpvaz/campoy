@@ -33,4 +33,316 @@
  "id": "/providers/Microsoft.Management/managementGroups/MANAGED/providers/Microsoft.Authorization/policySetDefinitions/85d1f94dbc2b4b1cba213047",
  "type": "Microsoft.Authorization/policySetDefinitions",
  "name": "85d1f94dbc2b4b1cba213047"
+ },
+{
+    "policyDefinitionReferenceId": "Container registries should be encrypted with a customer-managed key (CMK) NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/0e6786d9-46d7-4dd4-96a1-49d069a34299",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Container registries should not allow unrestricted network access NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/0e6786d9-46d7-4dd4-96a1-49d069a342a4",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Container registries should use private links NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/0e6786d9-46d7-4dd4-96a1-49d069a34b61",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Unattached disks should be encrypted NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/0e8347b2-c31c-49c9-8bdb-51a9701dbb42",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "[Preview]: Container Registry should use a virtual network service endpoint NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/1534e74d-075a-43bf-89ba-01750ea87c90",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Deploy default Microsoft IaaSAntimalware extension for Windows Server NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/5a5006de-41a8-450e-8670-d9e38563ac99",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Cosmos DB should use a virtual network service endpoint NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/935c7afc-33d1-4495-819c-c984f6facde4",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Flow log should be configured for every network security group_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/935c7afc-33d1-4495-819c-c984f6face01",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Event Hub should use a virtual network service endpoint NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/935c7afc-33d1-4495-819c-c984f6facdf4",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Gateway subnets should not be configured with a network security group NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/935c7afc-33d1-4495-819c-c984f6face0e",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Network interfaces should disable IP forwarding NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/935c7afc-33d1-4495-819c-c984f6face1b",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Network interfaces should not have public IPs NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/935c7afc-33d1-4495-819c-c984f6face28",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Storage Accounts should use a virtual network service endpoint NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/935c7afc-33d1-4495-819c-c984f6face35",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "SSH access from the Internet should be blocked NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/935c7afc-33d1-4495-819c-c984f6face42",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "RDP access from the Internet should be blocked NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/935c7afc-33d1-4495-819c-c984f6face4f",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "SQL Server should use a virtual network service endpoint NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/935c7afc-33d1-4495-819c-c984f6face5c",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "A security contact phone number should be provided for your subscription_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/f69a1228-d3bc-4263-b75e-76d731f3686f/providers/Microsoft.Authorization/policyDefinitions/208d5c90-7df3-486f-83f4-e99c4d9e5fd1",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "A security contact email address should be provided for your subscription_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/f69a1228-d3bc-4263-b75e-76d731f3686f/providers/Microsoft.Authorization/policyDefinitions/208d5c90-7df3-486f-83f4-e99c4d9e5fc4",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Adaptive Network Hardening recommendations should be applied on internet facing virtual machines NOP_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/d939c887-7300-492a-b597-473c228ae897",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "A vulnerability assessment solution should be enabled on your virtual machines NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/d939c887-7300-492a-b597-473c228ae87d",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Audit VMs that do not use managed disks NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/d5805354-579d-41ed-a490-9b261eb8bb4e",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Vulnerabilities in Azure Container Registry images should be remediated_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/a2a450b3-22ff-4c49-9dd5-59d8ed4a1a70",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Non-internet-facing virtual machines should be protected with network security groups NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/a2a450b3-22ff-4c49-9dd5-59d8ed4a1a63",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Azure Defender for Storage should be enabled NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/a2a450b3-22ff-4c49-9dd5-59d8ed4a1a49",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Azure Defender for servers should be enabled NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/a2a450b3-22ff-4c49-9dd5-59d8ed4a1a3c",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Azure Defender for container registries should be enabled NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/a2a450b3-22ff-4c49-9dd5-59d8ed4a1a08",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Kubernetes clusters should not allow container privilege escalation_1",
+    "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/1c6e92c9-99f0-4e55-9cf2-0c234dc48f99",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Enforce HTTPS ingress in Kubernetes cluster_1",
+    "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/1a5b4dca-0b6f-4cf5-907c-56316bc1bf3d",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Enforce internal load balancers in Kubernetes cluster_1",
+    "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/3fc4dc25-5baf-40d8-9b05-7fe74c1bc64e",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Kubernetes cluster containers should run with a read only root file system_1",
+    "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/df49d893-a74c-421d-bc95-c663042e5b80",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Function App should only be accessible over HTTPS NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/e5f441fe-3189-450b-a6eb-d91f7896b62d",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "etiqueta environment_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/f69a1228-d3bc-4263-b75e-76d731f3686f/providers/Microsoft.Authorization/policyDefinitions/b03bc2ec-eb2a-455e-9f15-968efe29d31a",
+    "parameters": {
+     "tagNameEntorno": {
+      "value": "Environment"
+     },
+     "tagValueEntorno": {
+      "value": [
+       "PRE",
+       "DES"
+      ]
+     }
+    },
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Regiones Permitidas ECO-RECICLOS_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/e2c8e2ee-9fd1-4d63-8846-cfef25abdbf2",
+    "parameters": {
+     "listOfAllowedLocations": {
+      "value": [
+       "northeurope",
+       "europe"
+      ]
+     }
+    },
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Key Vault should use a virtual network service endpoint NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/09e3b960-d555-44de-8429-c48f61b6f948",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Web Application Firewall (WAF) should be enabled for Application Gateway NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/180bd9bd-28d2-430f-b21e-1ba48d7897b8",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Web Application Firewall (WAF) should use the specified mode for Application Gateway NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/180bd9bd-28d2-430f-b21e-1ba48d7897c5",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Service Bus should use a virtual network service endpoint NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/180bd9bd-28d2-430f-b21e-1ba48d7897d8",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Network Watcher should be enabled NOPRO_2",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/935c7afc-33d1-4495-819c-c984f6face69",
+    "parameters": {
+     "listOfLocations": {
+      "value": [
+       "northeurope"
+      ]
+     }
+    },
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "App Service should use a virtual network service endpoint NOPRO_2",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/935c7afc-33d1-4495-819c-c984f6face76",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Azure Defender for Kubernetes should be enabled NOPRO_2",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/a2a450b3-22ff-4c49-9dd5-59d8ed4a1a15",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Internet-facing virtual machines should be protected with network security groups NOPRO_2",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/a2a450b3-22ff-4c49-9dd5-59d8ed4a1a2f",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Kubernetes Services should be upgraded to a non-vulnerable Kubernetes version NOPRO_2",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/a2a450b3-22ff-4c49-9dd5-59d8ed4a1a56",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "All network ports should be restricted on network security groups associated to your virtual machine_2",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/d939c887-7300-492a-b597-473c228ae88a",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Authorized IP ranges should be defined on Kubernetes Services NOPRO_2",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/d939c887-7300-492a-b597-473c228ae8a4",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Disk encryption should be applied on virtual machines NOPRO_2",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/d939c887-7300-492a-b597-473c228ae8bd",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Subnets should be associated with a Network Security Group NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/a9bfe5b6-4bde-4465-9b03-f3c876ad4c55",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "ECO_NSG_Internet_Permisivo_NOPRO_1",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/f082a0ab-59a8-4cc5-92d9-a98a8e7bac6f",
+    "parameters": {},
+    "groupNames": []
+   }
+  ],
+  "policyDefinitionGroups": []
+ },
+ "id": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policySetDefinitions/60f5808f0e4c4a76ad035aff",
+ "type": "Microsoft.Authorization/policySetDefinitions",
+ "name": "60f5808f0e4c4a76ad035aff"
 }
