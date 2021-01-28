@@ -12,13 +12,13 @@
    "policyDefinitions": [
    {
     "policyDefinitionReferenceId": "Container registries should be encrypted with a customer-managed key (CMK) NOPRO_1",
-    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/0e6786d9-46d7-4dd4-96a1-49d069a34299",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/0e6786d9-46d7-4dd4-96a1-49d069a34289",
     "parameters": {},
     "groupNames": []
    },
    {
     "policyDefinitionReferenceId": "Container registries should not allow unrestricted network access NOPRO_1",
-    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/0e6786d9-46d7-4dd4-96a1-49d069a342a4",
+    "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/No-PRO/providers/Microsoft.Authorization/policyDefinitions/0e6786d9-46d7-4dd4-96a1-49d069a342b4",
     "parameters": {},
     "groupNames": []
    },
